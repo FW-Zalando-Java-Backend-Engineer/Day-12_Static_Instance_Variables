@@ -116,12 +116,12 @@ System.out.println(s1.equals(s2)); // true (same content)
 ---
 
 ## **🎥 Video Lesson Recording**
-📺 _To be added soon after the class!_
+📺 [Video Lesson Recording](https://us06web.zoom.us/rec/share/KVI7yBIojQW_Fq30F5HSPjRXN5bCiCvW6AldFJAkx2S1dW9ejcuNH47AnN3Koirn.DgIPNsnNu5swnCBB?startTime=1743491937000)
 
 ---
 
 ## **📑 Slides**
-📂 [Java - Object Lifecycle Slides](_To be added soon after the class!_)
+📂 [Java - Object Lifecycle Slides](https://github.com/FW-Zalando-Java-Backend-Engineer/Day-12_Static_Instance_Variables/blob/main/Java%20-%20Objects.pdf)
 
 ---
 
