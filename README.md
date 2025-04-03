@@ -125,4 +125,9 @@ System.out.println(s1.equals(s2)); // true (same content)
 
 ---
 
+
+## **🖥️ Live Coding**
+📂 [Live Coding Example](https://github.com/FW-Zalando-Java-Backend-Engineer/Day-12_Static_Instance_Variables/tree/main/Day_12)
+
+---
 🚀 **Fantastic work today! Understanding object behavior is key to mastering Java. See you tomorrow for more backend brilliance!** 💡
